@@ -1,6 +1,6 @@
 "use client";
 import { getContract, Address } from "viem";
-import { contractAbi } from "./abi";
+import { contractAbi } from "./abi2";
 import { ConnectWalletClient } from "./client";
 import { useState } from "react";
 export default function TestDragonXComponent() {
